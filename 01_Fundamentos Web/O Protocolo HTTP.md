@@ -108,7 +108,7 @@ Usado para dizer a um proxy para fazer uma conexão com outro host e simplesment
 
 O conceito de recurso da Web evoluiu durante o histórico da Web, desde a noção inicial de documentos ou arquivos estáticos endereçáveis, até uma definição mais genérica e abstrata, agora abrangendo todas as "coisas" ou entidades que podem ser identificadas, nomeadas, endereçadas ou manipuladas, de qualquer forma, na Web em geral ou em qualquer sistema de informações em rede.
 
-Os recursos HTTP são identificados e localizados na rede pelos **URL's**(Uniform Resource Locators), usando os esquemas HTTP e HTTPS dos **URI's**(Uniform Resource Identifiers). Por exemplo, incluindo todos os componentes possíveis, incluindo opcionais
+Os recursos HTTP são identificados e localizados na rede pelos **URL's**(Uniform Resource Locators), usando os esquemas HTTP e HTTPS dos **URI's**(Uniform Resource Identifiers). 
 
 #### Identificador do Recurso URI
 
