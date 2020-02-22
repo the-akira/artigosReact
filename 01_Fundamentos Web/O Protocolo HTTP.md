@@ -50,7 +50,7 @@ Um servidor não é necessariamente uma única máquina, mas várias instâncias
 
 Entre o navegador da Web e o servidor, vários computadores e máquinas retransmitem as mensagens HTTP. Devido à estrutura organizacional em camadas dos protocolos da Web, a maioria delas opera nos níveis de **transporte**, **rede** ou **físico**, tornando-se transparente na camada HTTP e potencialmente causando um impacto significativo no desempenho. Aqueles que operam nas camadas de **aplicação** são geralmente chamados de **proxies**. Eles podem ser transparentes, encaminhando as solicitações recebidas sem alterá-las de qualquer forma ou não transparentes, nesse caso, eles alterarão a solicitação de alguma forma antes de transmiti-la ao servidor. Os proxies podem executar várias funções, tais como:
 
-- *caching* (o cache pode ser público ou privado, como o cache do navegador))
+- *caching* (o cache pode ser público ou privado, como o cache do navegador)
 - *filtering* (como uma verificação antivírus)
 - *load balancing* (para permitir que vários servidores atendam a diferentes solicitações)
 - *authentication* (para controlar o acesso a diferentes recursos)

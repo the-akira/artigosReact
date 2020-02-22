@@ -1,12 +1,6 @@
 # Conteúdo
 
 - Fundamentos Web
-    - HTTP
-    - HTML
-    - CSS
-    - Javascript
-    - Document Object Model
-    - AJAX
 - Introdução
 - Hello World e Instalação
 - Elementos e JSX
