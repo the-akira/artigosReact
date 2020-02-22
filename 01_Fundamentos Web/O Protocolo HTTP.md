@@ -10,6 +10,8 @@
 
 ## Breve Histórico
 
+![img](https://i.imgur.com/zo8nkkF.png)
+
 O desenvolvimento do HTTP foi iniciado por **Tim Berners-Lee** no CERN em 1989. O desenvolvimento inicial dos HTTP Requests for Comments ([RFCs](https://pt.wikipedia.org/wiki/Request_for_Comments)) foi um esforço coordenado pela Internet Engineering Task Force (IETF) e pelo World Wide Web Consortium (W3C), posteriormente movido para o IETF.
 
 ## Introdução
