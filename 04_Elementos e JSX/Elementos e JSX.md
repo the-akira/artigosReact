@@ -151,7 +151,7 @@ Ao abrir nosso **console**, vamos nos deparar com o seguinte **objeto**:
 "$$typeof": Symbol(react.element)
 ​_owner: Object { tag: 0, key: null, index: 0, … }
 ​_self: null
-​_source: Object { fileName: "/home/akira/Documentos/Javascript/React/projeto/src/App.js", lineNumber: 5 }
+​_source: Object { fileName: "/Documentos/Javascript/React/projeto/src/App.js", lineNumber: 5 }
 ​_store: Object { … }
 ​  key: null
 ​props: {…}
