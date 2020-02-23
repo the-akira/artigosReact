@@ -172,7 +172,7 @@ Babel compila **JSX** para chamadas **React.createElement()**.
 
 Vamos considerar o seguinte exemplo, onde criamos um elementos através de duas maneiras diferentes, editamos então o arquivo `App.js`:
 
-```
+```javascript
 import React from 'react';
 import './App.css';
 
