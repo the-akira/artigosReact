@@ -1,4 +1,4 @@
-<h1 align="center">Fundamentos React</h1>
+<h1 align="center">Artigos React</h1>
 
 <h1 align="center">
     <img alt="React" title="react" src="https://i.imgur.com/jgNrYhw.png"> </br>
