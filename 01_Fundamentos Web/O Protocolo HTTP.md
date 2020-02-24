@@ -280,7 +280,7 @@ function getRequest(url){
 
 Vamos agora utilizar a nossa função para solicitar dados a uma **API**:
 
-```
+```javascript
 getRequest('https://jsonplaceholder.typicode.com/posts')
 ```
 
