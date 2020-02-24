@@ -8,5 +8,4 @@
 - [Introdução](https://github.com/the-akira/Fundamentos-React/blob/master/02_Introdu%C3%A7%C3%A3o/React.md)
 - [Hello World e Instalação](https://github.com/the-akira/Fundamentos-React/blob/master/03_Hello%20World%20e%20Instala%C3%A7%C3%A3o/Instala%C3%A7%C3%A3o.md)
 - [Elementos e JSX](https://github.com/the-akira/Fundamentos-React/blob/master/04_Elementos%20e%20JSX/Elementos%20e%20JSX.md)
-
-Em progresso...
+- [Components e Props](https://github.com/the-akira/Fundamentos-React/blob/master/05_Components%20e%20Props/Components%20e%20Props.md)
