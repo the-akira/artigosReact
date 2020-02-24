@@ -6,7 +6,7 @@ Outra definição seria que os **Components** são microentidades independentes 
 
 ![img](https://i.imgur.com/8ewnLfR.png)
 
-Existem dois tipos de **Components**: *Function components* e *Class components*
+Existem dois tipos de Components: **Function components** e **Class components**
 
 ## Function components
 
@@ -211,7 +211,7 @@ No topo de nosso arquivo, estamos importando os components, veja que importamos 
 
 Feitas as importações, vamos para nosso component root `App`, nele estamos definindo duas funções `multiplicacao()` e `adicao()` que serão passamos como **props** para o component `Operacoes`.
 
-Finalmente nosso **JSX**, estamos retornando nossos components para serem renderizados e apresentados na Interface do Usuário:
+Finalmente em nosso **JSX**, estamos retornando nossos components para serem renderizados e apresentados na Interface do Usuário:
 
 #### Linguagens
 
