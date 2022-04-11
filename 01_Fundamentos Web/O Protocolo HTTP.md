@@ -10,7 +10,7 @@
 
 ## Breve Histórico
 
-![img](https://i.imgur.com/zo8nkkF.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/Imagens/Capas/WWW.png)
 
 O desenvolvimento do HTTP foi iniciado por **Tim Berners-Lee** no CERN em 1989. O desenvolvimento inicial dos HTTP Requests for Comments ([RFCs](https://pt.wikipedia.org/wiki/Request_for_Comments)) foi um esforço coordenado pela Internet Engineering Task Force (IETF) e pelo World Wide Web Consortium (W3C), posteriormente movido para o IETF.
 
@@ -22,7 +22,7 @@ HTTP é um protocolo sem estado. Em outras palavras, a solicitação atual não 
 
 O protocolo HTTP é um protocolo de **requisição**/**resposta**.
 
-![img](https://i.imgur.com/91YJ6o9.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/Client-Server.png)
 
 Um cliente envia uma **requisição** ao servidor na forma de um **[método de requisição](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)**, **[URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)** e versão do protocolo, seguido por uma mensagem semelhante a **[MIME](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)** contendo modificadores de requisição, informações do cliente e possível conteúdo do corpo através de uma conexão com um servidor.
 
@@ -130,7 +130,7 @@ authority = [userinfo@]host[:port]
 
 Isso pode ser representado através do diagrama de síntaxe:
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/URI_syntax_diagram.svg/1068px-URI_syntax_diagram.svg.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/URI-syntax-diagram.png)
 
 O URI compreende então:
 
@@ -146,7 +146,7 @@ O URI compreende então:
 
 Unindo tudo em diversos exemplos:
 
-![img](https://i.imgur.com/8vXZNpf.png)
+![img](https://raw.githubusercontent.com/the-akira/PythonExperimentos/master/HTTP/syntax-examples.png)
 
 ### Linha de Requisição
 
