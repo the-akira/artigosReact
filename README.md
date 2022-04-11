@@ -1,7 +1,7 @@
 <h1 align="center">Artigos React</h1>
 
 <h1 align="center">
-    <img alt="React" title="react" src="https://i.imgur.com/jgNrYhw.png"> </br>
+    <img alt="React" title="react" src="https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/logo.png"> </br>
 </h1>
 
 - [Fundamentos Web](https://github.com/the-akira/Fundamentos-React/blob/master/01_Fundamentos%20Web/O%20Protocolo%20HTTP.md)

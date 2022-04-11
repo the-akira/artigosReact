@@ -4,7 +4,7 @@ Os **Components** permitem que possamos dividir nossa Interface do Usuário em p
 
 Outra definição seria que os **Components** são microentidades independentes e auto-sustentáveis que descrevem uma parte da sua Interface do Usuário. A interface do usuário de uma aplicação pode ser dividida em components menores, onde cada component tem seu próprio código, estrutura e API.
 
-![img](https://i.imgur.com/8ewnLfR.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/ReactFuncionamento.png)
 
 Existem dois tipos de Components: **Function components** e **Class components**
 

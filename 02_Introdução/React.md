@@ -1,6 +1,6 @@
 # React
 
-![img](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/thumb/react.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/logo.png)
 
 ## Introdução
 
@@ -10,7 +10,7 @@ Um dos aspectos mais importantes do **React** é o fato de que você pode criar 
 
 **Components** são como funções JavaScript. Eles aceitam entradas arbitrárias de dados(chamadas de **props**) e retornam elementos React descrevendo o que deve aparecer na tela.
 
-![img](https://i.imgur.com/8ewnLfR.png)
+![img](https://raw.githubusercontent.com/the-akira/artigosReact/master/Imagens/ReactFuncionamento.png)
 
 Os **componentes** são bits de **código independentes** e **reutilizáveis** que ajudam a tornar nossa aplicação modular e organizada, fazendo com que seja mais fácil mantê-la.
 
